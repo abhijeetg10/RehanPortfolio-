@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*
+bundle.js
+extract.py
+.DS_Store
+Thumbs.db
